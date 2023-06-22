@@ -1,16 +1,11 @@
 {
   "success": "OK",
   "data": {
-    "server_time": "2023-06-21 03:55:55",
+    "server_time": "2023-06-22 03:12:58",
     "pod_time_zone": "Asia\/Singapore",
-    "pod_time": "2023-06-21 11:55:55",
+    "pod_time": "2023-06-22 11:12:58",
     "header": {
       "column": [
-        {
-          "date_name": "2023-06-21",
-          "display_name": "21 Jun",
-          "day_name": "Wed"
-        },
         {
           "date_name": "2023-06-22",
           "display_name": "22 Jun",
@@ -155,15 +150,15 @@
           "date_name": "2023-07-20",
           "display_name": "20 Jul",
           "day_name": "Thu"
+        },
+        {
+          "date_name": "2023-07-21",
+          "display_name": "21 Jul",
+          "day_name": "Fri"
         }
       ],
       "column_groups": [
         [
-          {
-            "date_name": "2023-06-21",
-            "display_name": "21 Jun",
-            "day_name": "Wed"
-          },
           {
             "date_name": "2023-06-22",
             "display_name": "22 Jun",
@@ -173,14 +168,14 @@
             "date_name": "2023-06-23",
             "display_name": "23 Jun",
             "day_name": "Fri"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-06-24",
             "display_name": "24 Jun",
             "day_name": "Sat"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-06-25",
             "display_name": "25 Jun",
@@ -190,14 +185,14 @@
             "date_name": "2023-06-26",
             "display_name": "26 Jun",
             "day_name": "Mon"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-06-27",
             "display_name": "27 Jun",
             "day_name": "Tue"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-06-28",
             "display_name": "28 Jun",
@@ -207,14 +202,14 @@
             "date_name": "2023-06-29",
             "display_name": "29 Jun",
             "day_name": "Thu"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-06-30",
             "display_name": "30 Jun",
             "day_name": "Fri"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-01",
             "display_name": "1 Jul",
@@ -224,14 +219,14 @@
             "date_name": "2023-07-02",
             "display_name": "2 Jul",
             "day_name": "Sun"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-07-03",
             "display_name": "3 Jul",
             "day_name": "Mon"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-04",
             "display_name": "4 Jul",
@@ -241,14 +236,14 @@
             "date_name": "2023-07-05",
             "display_name": "5 Jul",
             "day_name": "Wed"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-07-06",
             "display_name": "6 Jul",
             "day_name": "Thu"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-07",
             "display_name": "7 Jul",
@@ -258,14 +253,14 @@
             "date_name": "2023-07-08",
             "display_name": "8 Jul",
             "day_name": "Sat"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-07-09",
             "display_name": "9 Jul",
             "day_name": "Sun"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-10",
             "display_name": "10 Jul",
@@ -275,14 +270,14 @@
             "date_name": "2023-07-11",
             "display_name": "11 Jul",
             "day_name": "Tue"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-07-12",
             "display_name": "12 Jul",
             "day_name": "Wed"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-13",
             "display_name": "13 Jul",
@@ -292,14 +287,14 @@
             "date_name": "2023-07-14",
             "display_name": "14 Jul",
             "day_name": "Fri"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-07-15",
             "display_name": "15 Jul",
             "day_name": "Sat"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-16",
             "display_name": "16 Jul",
@@ -309,14 +304,14 @@
             "date_name": "2023-07-17",
             "display_name": "17 Jul",
             "day_name": "Mon"
-          }
-        ],
-        [
+          },
           {
             "date_name": "2023-07-18",
             "display_name": "18 Jul",
             "day_name": "Tue"
-          },
+          }
+        ],
+        [
           {
             "date_name": "2023-07-19",
             "display_name": "19 Jul",
@@ -326,6 +321,11 @@
             "date_name": "2023-07-20",
             "display_name": "20 Jul",
             "day_name": "Thu"
+          },
+          {
+            "date_name": "2023-07-21",
+            "display_name": "21 Jul",
+            "day_name": "Fri"
           }
         ]
       ],
@@ -382,496 +382,14 @@
     },
     "is_pod_section": 0,
     "values": {
-      "2023-06-21": [
-        {
-          "hour": "00:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "00:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "01:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "01:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "02:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "02:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "03:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "03:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "04:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "04:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "05:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "05:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "06:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "06:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "07:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "07:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "08:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "08:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "09:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "09:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "10:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "10:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "11:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "11:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 0,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "12:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "12:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "13:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "13:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "14:00",
-          "status": "unavailable",
-          "pax": 1,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "14:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "15:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "15:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "16:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "16:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "17:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "17:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "sunny",
-          "section": []
-        },
-        {
-          "hour": "18:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "18:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "19:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "19:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "20:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "20:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "21:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "21:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "22:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "22:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "23:00",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        },
-        {
-          "hour": "23:30",
-          "status": "available",
-          "pax": 0,
-          "is_selected": 0,
-          "is_offpeak": 0,
-          "is_valid": 1,
-          "time_status": "moon",
-          "section": []
-        }
-      ],
       "2023-06-22": [
         {
           "hour": "00:00",
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -880,8 +398,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -890,8 +408,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -900,8 +418,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -910,8 +428,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -920,8 +438,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -930,8 +448,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -940,8 +458,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -950,8 +468,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -960,8 +478,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -970,8 +488,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -980,8 +498,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "moon",
           "section": []
         },
@@ -990,8 +508,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1000,8 +518,8 @@
           "status": "available",
           "pax": 0,
           "is_selected": 0,
-          "is_offpeak": 1,
-          "is_valid": 1,
+          "is_offpeak": 0,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1011,7 +529,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1021,7 +539,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1031,7 +549,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1051,7 +569,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1061,7 +579,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1071,7 +589,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -1081,7 +599,7 @@
           "pax": 0,
           "is_selected": 0,
           "is_offpeak": 0,
-          "is_valid": 1,
+          "is_valid": 0,
           "time_status": "sunny",
           "section": []
         },
@@ -14361,6 +13879,488 @@
         }
       ],
       "2023-07-20": [
+        {
+          "hour": "00:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "00:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "01:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "01:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "02:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "02:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "03:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "03:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "04:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "04:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "05:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "05:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "06:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "06:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 1,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "07:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "07:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "08:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "08:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 0,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "09:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "09:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "10:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "10:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "11:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "11:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "12:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "12:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "13:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "13:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "14:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "14:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "15:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "15:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "16:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "16:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "17:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "17:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "sunny",
+          "section": []
+        },
+        {
+          "hour": "18:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "18:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "19:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "19:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "20:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "20:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "21:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "21:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "22:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "22:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "23:00",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        },
+        {
+          "hour": "23:30",
+          "status": "available",
+          "pax": 0,
+          "is_selected": 0,
+          "is_offpeak": 0,
+          "is_valid": 1,
+          "time_status": "moon",
+          "section": []
+        }
+      ],
+      "2023-07-21": [
         {
           "hour": "00:00",
           "status": "available",
